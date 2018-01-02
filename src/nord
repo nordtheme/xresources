@@ -1,12 +1,11 @@
-! +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-! title      Nord XResources                                    +
-! project    nord-xresources                                    +
-! version    0.1.0                                              +
-! repository https://github.com/arcticicestudio/nord-xresources +
-! author     Arctic Ice Studio                                  +
-! email      development@arcticicestudio.com                    +
-! copyright  Copyright (C) 2016                                 +
-! +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
+# Copyright (c) 2016-present Sven Greb <code@svengreb.de>
+
+# Project:    Nord XResources
+# Version:    0.1.0
+# Repository: https://github.com/arcticicestudio/nord-xresources
+# License:    MIT
+
 #define nord0 #2E3440
 #define nord1 #3B4252
 #define nord2 #434C5E
