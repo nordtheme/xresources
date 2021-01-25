@@ -23,6 +23,10 @@
 #define nord14 #A3BE8C
 #define nord15 #B48EAD
 
+xterm*faceName: Cascadia Code-11
+URxvt*font:     Cascadia Code-11
+URxvt*boldFont: Cascadia Code-11
+
 *.foreground:   nord4
 *.background:   nord0
 *.cursorColor:  nord4
